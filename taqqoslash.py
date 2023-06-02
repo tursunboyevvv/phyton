@@ -1,3 +1,4 @@
+# taqqoslash
 x=float(input("birinchi sonni kiriting:"))
 y=float(input("ikkinchi sonni kiriting:"))
 z=float(input("uchinchi sonni kiriting:"))
