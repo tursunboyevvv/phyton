@@ -1,5 +1,5 @@
 #Ro'yxat ichidagi lug'at/bir nechta shaxslar haqidagi 
-#malumotlarni consolga chiqarish
+#malumotlarni consolega chiqarish
 
 navoiy={ 'ism':'Alisher Navoiy','tyil':1441,'vyil':1501,'tjoy':'hirot'}
 temur={ 'ism':'amir temur','tyil':1336,'vyil':1405,'tjoy':'shahrisabz'}
